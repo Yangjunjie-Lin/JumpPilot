@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.spec
+*.exe
+*.zip
+*.log
+jump-pilot-settings.json
+.env
+.env.*
+*.pem
+*.key
